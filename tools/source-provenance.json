@@ -1,0 +1,11 @@
+{
+  "project": "FoxdieTeam/mgs_reversing",
+  "revision": "f54dbb2a58adfc2755403296c9ebb653fbec277b",
+  "files": {
+    "source/menu/radio.c": "d6530a5e85119d95c197d709df87b0f1452f52e4fc5cded813f1cb707515cb6d",
+    "source/menu/radiofacedraw.c": "185f52287e0dfe952bdbfcd3ba69c216a62c4f41e40499fae9ca3e461eed5af4",
+    "source/game/jimctrl.c": "55e3b8f243c61eeaeed8760faeabcde6799ef9fdb6e6ba7f7e4799ec1d123668"
+  },
+  "demo_baseline": "v24",
+  "baseline_html_sha256": "f88243ff917b8a0a22dc5c6cb6b594f37a8037e899c74a9c5f8f7ba02f9228c7"
+}

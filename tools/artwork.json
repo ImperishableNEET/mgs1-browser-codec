@@ -1,0 +1,11 @@
+{
+  "frame.png": {
+    "item": 43,
+    "palette": 42
+  },
+  "label.png": {
+    "item": 45,
+    "palette": 44,
+    "tint": true
+  }
+}

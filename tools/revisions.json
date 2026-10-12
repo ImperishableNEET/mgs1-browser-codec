@@ -1,0 +1,22 @@
+{
+  "1": {
+    "serial": "SLPM_862.47",
+    "executable_sha256": "4b8252b65953a02021486406cfcdca1c7670d1d1a8f3cf6e750ef6e360dc3a2f",
+    "resources": {
+      "MGS/RADIO.DAT": "424af52d303b224ed921c956c476dc84c1167b01b0fd714e37b9541444762a94",
+      "MGS/FACE.DAT": "d40fe909477ff59c7c15001fb15950a850e787ee87a804ed148c3689d2649f4e",
+      "MGS/VOX.DAT": "e6f86da22a92a7c830239ccf487b87f6ecd79d636dbca44fb72507cb6a7eea84",
+      "MGS/STAGE.DIR": "2c374f4dcec35644eefe4c981fc0d8ff3a7b6cd4afa34c4d10393c77496631da"
+    }
+  },
+  "2": {
+    "serial": "SLPM_862.48",
+    "executable_sha256": "4b8252b65953a02021486406cfcdca1c7670d1d1a8f3cf6e750ef6e360dc3a2f",
+    "resources": {
+      "MGS/RADIO.DAT": "24602bbb89918285483f5d11997cafccfe78157732d307243295fab27d2e53c9",
+      "MGS/FACE.DAT": "d40fe909477ff59c7c15001fb15950a850e787ee87a804ed148c3689d2649f4e",
+      "MGS/VOX.DAT": "ba933ff088a1e2f6511499b7767d854de53b1f31238201f15055b8fd071a547f",
+      "MGS/STAGE.DIR": "55cf27c6272a394f50610614bb6ca077b18c49ed6c84c8d9438d1dda376ad361"
+    }
+  }
+}
